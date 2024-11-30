@@ -2,3 +2,4 @@
 
 - Project Updates:
     - Working on Feature-x.
+    - Feature-x: 1st Objective is done.
