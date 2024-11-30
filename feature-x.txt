@@ -1,0 +1,2 @@
+- Feature-x Objectives:
+    - Create structure of main page.
