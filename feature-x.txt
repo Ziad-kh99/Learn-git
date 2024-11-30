@@ -1,2 +1,3 @@
 - Feature-x Objectives:
     - Create structure of main page.
+    - Collect some resources.
