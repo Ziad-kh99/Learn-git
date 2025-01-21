@@ -1,0 +1,2 @@
+Database connection string: 'Server=./instace;Database=db_test' 
+
