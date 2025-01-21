@@ -1,2 +1,2 @@
-Database connection string: 'Server=./instace;Database=db_test' 
+Database connection string: 'Server=./instace;Database=TestDB' 
 
